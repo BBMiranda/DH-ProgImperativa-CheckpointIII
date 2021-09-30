@@ -3,9 +3,13 @@
  ### Professor: Rodrigo Sarri
  ### Tutor: Luiz Valente
 
+<hr>
+
 <p align="center">
   <img width="400" height="300" src="https://www.atelieguglielmoniloja.com.br/res/site/img/png-transparent-shopping-cart-computer-icons-e-commerce-buy-angle-text-logo.gif">
 </p>
+
+<hr>
 
 Objetivo:
 Nesta aula, iremos aplicar nossos conhecimentos, em exercícios, como forma de
@@ -16,6 +20,8 @@ No VS Code, resolva as seguintes situações em JavaScript.
 Os exercícios possuem soluções que vocês poderão consultar. A ideia é que essa atividade
 sirva como aquecimento para a Prática Guiada, por isso pratique bastante. Tente fazer
 todos os exercícios antes de analisar o código com as respostas:
+
+<br>
 
       1 - Crie uma variável produtos, que contenha um array de objetos, com no
           mínimo 3 itens. Dentro da variável, liste produtos disponíveis, informando os
