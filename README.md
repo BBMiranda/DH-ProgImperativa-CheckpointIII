@@ -41,3 +41,6 @@ todos os exercícios antes de analisar o código com as respostas:
       3 - Por fim, é necessário exibir todos os itens presentes no carrinho, com seus
           nomes e preços correspondentes, e no final um valor total, resultante da
           somatória de todos os produtos.
+      
+      4 - Resposta: Para rodar o código é necessário digitar no terminal dentro da pasta:
+          "node script.js"
